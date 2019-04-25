@@ -1,7 +1,27 @@
 # upload-package-npm
 
+## Install
+``
+$ npm install upload-package-npm --save
+``
 
-[![Build Status](https://travis-ci.org/StevenLikeWatermelon/high-precision-four-fundamental-rules.svg?branch=master)](https://travis-ci.org/StevenLikeWatermelon/high-precision-four-fundamental-rules)   [![Code Climate](https://codeclimate.com/github/StevenLikeWatermelon/high-precision-four-fundamental-rules/badges/gpa.svg)](https://codeclimate.com/github/StevenLikeWatermelon/high-precision-four-fundamental-rules)   [![npm version](https://badge.fury.io/js/high-precision-four-fundamental-rules.svg)](https://badge.fury.io/js/high-precision-four-fundamental-rules)   [![Downloads](http://img.shields.io/npm/dm/high-precision-four-fundamental-rules.svg)](https://www.npmjs.com/package/high-precision-four-fundamental-rules)
+## Usage
 
-upload npm package test ha
+```js
+import uploadPackageNpm from 'upload-package-npm';
+uploadPackageNpm.showMsg(); 
+```
+
+## API
+
+```js
+uploadPackageNpm.showMsg(); 
+```
+
+
+## Warning
+
+**This article is only for testing and publishing NPM packages, not for other purposes. If you like, you can test and play.**
+
+**该文仅为测试发布npm包使用，不做其他用途，若你喜欢可以可以测试玩玩**
 
