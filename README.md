@@ -1,5 +1,5 @@
 # upload-package-npm
-
+https://img.shields.io/badge/dash-under-green.svg
 ## Install
 ``
 $ npm install upload-package-npm --save
